@@ -4,4 +4,4 @@
 
 ### **_Resuelve el Algoritmo FizzBuzz de 4 formas distintas:_**
 
-- Algoritmos en Javascript.
+- _Algoritmos en Javascript._
