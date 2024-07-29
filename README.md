@@ -2,7 +2,7 @@
 
 ## **_Algoritmos en Javascript!_**
 
-### **_Resuelve Algoritmos FizzBuzz de 4 maneras y métodos distintas:_**
+### **_Resuelve Algoritmos FizzBuzz de 4 maneras y métodos distintos:_**
 
 - **_Algoritmos utilizando Javascript._**
   
