@@ -14,7 +14,7 @@
 
 - **_Si usted piensa en participar en una entrevista de trabajo para un puesto de desarrollo y programación utilizando Javascript, entonces debes de aprender y practicar las respuestas para los distintos algoritmos y algunos desafíos que suelen aparecer en estas entrevistas de trabajo para perfiles Junior y/o Senior de Javascript._**
 
-- **_El Algoritmo FizzBuzz es un típico ejercicio y/o desafío que suele aparecer con frecuencia en las entrevistas de trabajo de JavaScript para perfiles más iniciales (Junior)._**
+- **_El Algoritmo FizzBuzz es un típico ejercicio y/o desafío que en esto suele aparecer con frecuencia en las entrevistas de trabajo de JavaScript para perfiles más iniciales (Junior)._**
 
 - **_En este proyecto te explicamos 4 maneras diferentes para solucionar este desafío de Javascript; Y además, te explicamos algunos trucos más avanzados de Javascript._**
 
