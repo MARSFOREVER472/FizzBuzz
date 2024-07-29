@@ -10,7 +10,7 @@
   
 - **_Resuelve el algoritmo FizzBuzz utilizando código Javascript._**
   
-- **_Ejemplos de programas y aplicaciones creadas con Javascript._**
+- **_Ejemplos de programas y/o aplicaciones creadas con Javascript._**
 
 - **_Si usted piensa en participar en una entrevista de trabajo para un puesto de desarrollo y programación utilizando Javascript, entonces debes de aprender y practicar las respuestas para los distintos algoritmos y algunos desafíos que suelen aparecer en estas entrevistas de trabajo para perfiles Junior y/o Senior de Javascript._**
 
