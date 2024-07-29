@@ -4,7 +4,7 @@
 
 ### **_Resuelve el Algoritmo FizzBuzz de 4 formas distintas:_**
 
-- **_Algoritmos en Javascript._**
+- **_Algoritmos usando Javascript._**
   
 - **_FizzBuzz + Javascript para entrevistas de trabajo._**
   
