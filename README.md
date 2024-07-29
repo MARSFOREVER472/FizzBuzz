@@ -17,5 +17,6 @@
 - **_El Algoritmo FizzBuzz es un típico ejercicio y/o desafío que suele aparecer con frecuencia en las entrevistas de trabajo de JavaScript para perfiles más iniciales (Junior)._**
 
 - **_En este proyecto te explicamos 4 maneras diferentes para solucionar este desafío de Javascript; Y además, te explicamos algunos trucos más avanzados de Javascript._**
+
 En la parte inicial del vídeo, resolvemos el Algoritmo Fizz Buzz usando un bucle for clásico. Luego, usamos un bucle While. Y en el tercer método presentado en este vídeo se usa lo que se conoce como 'Truthy' y 'Falsy' en Javascript.
 Y para terminar, te presentamos una manera más avanzada de solucionar este problema de JavaScript, donde usamos una combinación de operadores ternarios con 'Truthy' y 'Falsy'. 
