@@ -20,4 +20,4 @@
 
 - **_En la parte inicial del vídeo, resolvemos el Algoritmo Fizz Buzz usando un bucle for clásico. Luego, usamos un bucle While. Y en el tercer método presentado en este vídeo se usa lo que se conoce como 'Truthy' y 'Falsy' en Javascript._**
 
-- **_Y para terminar, te presentamos de una manera más avanzada de solucionar este problema de JavaScript, donde usamos una combinación de operadores ternarios con 'Truthy' y 'Falsy'._**
+- **_Y para terminar, te presentamos de una manera más avanzada de solucionar este problema de JavaScript, donde usaremos una combinación de operadores ternarios con 'Truthy' y 'Falsy'._**
