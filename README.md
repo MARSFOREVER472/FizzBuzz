@@ -16,4 +16,4 @@
 
 - **_El Algoritmo FizzBuzz es un típico ejercicio y/o desafío que suele aparecer con frecuencia en las entrevistas de trabajo de JavaScript para perfiles más iniciales (Junior)._**
 
-- En este vídeo te explicamos 4 maneras diferentes de solucionar este desafío de Javascript. Y además, te explicamos algunos trucos más avanzados de Javascript.
+- _En este vídeo te explicamos 4 maneras diferentes de solucionar este desafío de Javascript. Y además, te explicamos algunos trucos más avanzados de Javascript._
