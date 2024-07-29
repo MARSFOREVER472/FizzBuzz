@@ -6,3 +6,4 @@
 
 - **_Algoritmos en Javascript._**
 - **_FizzBuzz - Javascript para entrevistas de trabajo._**
+Resuelve el algoritmo FizzBuzz usando código Javascript
